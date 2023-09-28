@@ -1,2 +1,4 @@
-# cti110
-CTI 110 R
+# CTI 110 Repository
+Created for P1LAB1
+Tejada
+09/28/2023
